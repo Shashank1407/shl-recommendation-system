@@ -1,0 +1,15 @@
+streamlit
+requests
+pandas
+python-dotenv
+langchain-huggingface
+langchain-community
+sentence-transformers
+faiss-cpu
+google-generativeai
+uvicorn
+matplotlib
+seaborn
+fastapi
+beautifulsoup4
+plotly

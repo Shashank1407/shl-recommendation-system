@@ -1,0 +1,11 @@
+name,url,remote,adaptive,duration,type
+Situational Judgement Test (SJT),https://www.shl.com/solutions/products/sjt,Yes,No,25 min,Behavioral
+Deductive Reasoning,https://www.shl.com/solutions/products/deductive-reasoning,Yes,Yes,25 min,Cognitive
+Verbal Reasoning,https://www.shl.com/solutions/products/verbal-reasoning,Yes,No,20 min,Cognitive
+Numerical Reasoning,https://www.shl.com/solutions/products/numerical-reasoning,Yes,No,20 min,Cognitive
+Inductive Reasoning,https://www.shl.com/solutions/products/inductive-reasoning,Yes,Yes,30 min,Cognitive
+Personality Questionnaire,https://www.shl.com/solutions/products/personality,Yes,No,15 min,Personality
+Teamwork Assessment,https://www.shl.com/solutions/products/teamwork,Yes,Yes,30 min,Behavioral
+Coding Assessment - Java,https://www.shl.com/solutions/products/coding-java,Yes,No,40 min,Technical
+Leadership Potential,https://www.shl.com/solutions/products/leadership,Yes,No,35 min,Behavioral
+Problem Solving,https://www.shl.com/solutions/products/problem-solving,Yes,Yes,25 min,Cognitive

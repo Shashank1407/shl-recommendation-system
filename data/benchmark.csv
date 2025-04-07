@@ -1,0 +1,5 @@
+queries,ground_truth
+"I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",['Coding Simulation - Java', 'Teamwork Assessment']
+"Looking to hire mid-level professionals who are proficient in Python, SQL and Java Script. Need an assessment package that can test all skills with max duration of 60 minutes.",['Coding Simulation - Java', 'Coding Simulation - Python']
+"Here is a ID text, can you recommend some assessment that can help me screen applications. Time limit is less than 30 minutes.",['OPQ32 Personality', 'Numerical Reasoning']
+"I am hiring for an analyst and wants applications to screen using Cognitive and personality tests, what options are available within 45 mins.",['SHL Verify G+', 'OPQ32 Personality', 'Leadership Assessment']
